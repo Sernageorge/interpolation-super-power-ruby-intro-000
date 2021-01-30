@@ -5,4 +5,4 @@ end
 
 colors(["Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet"])
 
-display_rainbow
+display_rainbow(colors)
